@@ -1,6 +1,7 @@
 """
 блок-схема
 https://drive.google.com/file/d/1R28llY4Z7Rl5M8DAA5Rf4IWgpxcrZCPY/view?usp=sharing
+Найти сумму и произведение чисел из трехзначного числа. Задача 1
 """
 numb = int(input('Введите целое трехзначное число: '))
 if numb < 0:
