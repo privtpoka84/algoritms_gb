@@ -1,7 +1,7 @@
 """
 блок-схема
 https://drive.google.com/file/d/1R28llY4Z7Rl5M8DAA5Rf4IWgpxcrZCPY/view?usp=sharing
-Найти среднее число
+Найти среднее число. Задача 9
 """
 
 numb1 = int(input('Введите первое целое число: '))
